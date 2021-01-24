@@ -1,4 +1,4 @@
-## korkeep: Sungsu Kim
+## Sungsu Kim (korkeep)
 ### Introduction
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Computer Security, Android Application, Embedded System Developer  
