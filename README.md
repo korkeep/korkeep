@@ -3,7 +3,7 @@
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Computer Security, Android Application, Embedded System Developer  
 
-![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-ff999a?style=flat-square&labelColor=a40000)
+![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)
 [![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-09ce20?style=flat-square&labelColor=0e7e02&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
 
 ### Career
