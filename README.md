@@ -5,7 +5,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkorkeep&count_bg=%234867F5&title_bg=%2375AAFF&icon=&icon_color=%235C3F3F&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Email Badge](https://img.shields.io/badge/Email-09ce20?style=flat-square&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
-[![Email Badge](https://img.shields.io/badge/KHUmail-ae0236?style=flat-square&link=mailto:korkeep@khu.ac.kr)](mailto:korkeep@khu.ac.kr)
+[![KHUmail Badge](https://img.shields.io/badge/KHUmail-ae0236?style=flat-square&link=mailto:korkeep@khu.ac.kr)](mailto:korkeep@khu.ac.kr)
+[![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-yellow)]
 
 ### Career
 - (16.03 - 17.02) 경희대학교 대학주보 수습기자
