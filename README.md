@@ -1,5 +1,5 @@
 ## korkeep (Sungsu Kim)
-### Introduction
+### Profile
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Android Application, Bigdata Analysis, Computer Security, Embedded System Developer  
 
