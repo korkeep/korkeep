@@ -1,7 +1,7 @@
 ## korkeep: Sungsu Kim
 ### Introduction
 👨‍🎓 Kyung Hee University, Computer Engineering  
-👨‍💻 Information Security, Android Application, Embedded System Developer  
+👨‍💻 Computer Security, Android Application, Embedded System Developer  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkorkeep&count_bg=%234867F5&title_bg=%2375AAFF&icon=&icon_color=%235C3F3F&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Email Badge](https://img.shields.io/badge/Email-09ce20?style=flat-square&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
