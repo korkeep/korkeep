@@ -3,8 +3,8 @@
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Computer Security, Android Application, Embedded System Developer  
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkorkeep&count_bg=%234867F5&title_bg=%2375AAFF&icon=&icon_color=%235C3F3F&title=VISIT&edge_flat=true)
-![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-868e96?style=flat-square?labelColor=495057)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkorkeep&count_bg=%23828282&title_bg=%234D4D4D&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)
+![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-828282?style=flat-square&labelColor=4d4d4d)
 [![Email Badge](https://img.shields.io/badge/Email-09ce20?style=flat-square&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
 
 ### Career
