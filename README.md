@@ -13,7 +13,7 @@
 - (19.03 - 20.02) 경희대학교 대학주보 기획뉴스팀
 - (19.03 - 21.12) 경희대학교 제2기숙사 생활멘토장
 - (20.01 - 현재) 경희대학교 MESL 연구실 학부연구생
-- (미래) 대한민국 예비사무관 🇰🇷
+- 대한민국 예비사무관 🇰🇷
 
 <!--
   **korkeep/korkeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
