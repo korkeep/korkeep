@@ -14,6 +14,9 @@
 - (20.01 - 현재) 경희대학교 MESL 연구실 학부연구생
 - (예비) 대한민국 정보보호직 예비사무관 🇰🇷
 
+### GitHub Stats
+[![korkeep's github stats](https://github-readme-stats.vercel.app/api?username=korkeep&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **korkeep/korkeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
