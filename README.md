@@ -1,7 +1,7 @@
 ## korkeep (Sungsu Kim)
 ### Profile
 👨‍🎓 Kyung Hee University, Computer Engineering  
-👨‍💻 Android, Bigdata, Computer Security, Embedded System  
+👨‍💻 Android Application, Bigdata Analysis, Computer Security, Drone System Developer  
 
 [![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)
 [![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-09ce20?style=flat-square&labelColor=0e7e02&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
