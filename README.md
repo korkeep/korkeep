@@ -3,9 +3,8 @@
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Android Application, Bigdata Analysis, Computer Security, Drone System Developer  
 
-[![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)
-[![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-09ce20?style=flat-square&labelColor=0e7e02&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
-[![Workplace Badge](https://img.shields.io/badge/Workplace-mesl.khu.ac.kr-7885ff?style=flat-square&labelColor=4555ff)](http://mesl.khu.ac.kr/)
+[![Work Badge](https://img.shields.io/badge/Work-mesl.khu.ac.kr-f74c4b?style=flat-square&labelColor=a40000)](http://mesl.khu.ac.kr/)
+[![Contact Badge](https://img.shields.io/badge/Contact-korkeep@naver.com-09ce20?style=flat-square&labelColor=0e7e02&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
 
 ### Career
 - (16.03 - 17.02) 경희대학교 대학주보 수습기자
