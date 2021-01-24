@@ -1,4 +1,4 @@
-## Sungsu Kim (korkeep)
+## korkeep (Sungsu Kim)
 ### Introduction
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Computer Security, Android Application, Embedded System Developer  
@@ -12,7 +12,7 @@
 - (19.03 - 20.02) 경희대학교 대학주보 기획뉴스팀
 - (19.03 - 21.12) 경희대학교 제2기숙사 생활멘토장
 - (20.01 - 현재) 경희대학교 MESL 연구실 학부연구생
-- (예비) 대한민국 정보보호직 예비사무관 🇰🇷
+- (예비) 대한민국 예비사무관 🇰🇷
 
 ### GitHub Stats
 [![korkeep's github stats](https://github-readme-stats.vercel.app/api?username=korkeep&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
