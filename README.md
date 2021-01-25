@@ -3,8 +3,8 @@
 👨‍🎓 Kyung Hee University, Computer Engineering  
 👨‍💻 Android, Bigdata, Computer Security, Embedded System Developer  
 
-[![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)
-[![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-09ce20?style=flat-square&labelColor=0e7e02&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
+<!--[![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)-->
+[![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-f74c4b?style=flat-square&labelColor=a40000&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
 [![Work Badge](https://img.shields.io/badge/Work-mesl.khu.ac.kr-7885ff?style=flat-square&labelColor=4555ff)](http://mesl.khu.ac.kr/)
 
 ### Career
