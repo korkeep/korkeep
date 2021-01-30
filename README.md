@@ -1,7 +1,7 @@
 ## korkeep (Sungsu Kim)
 ### Profile
 👨‍🎓 경희대학교 컴퓨터공학과 재학  
-👨‍💻 Android, Bigdata, Computer Security, Drone, Embedded System  
+👨‍💻 Android, Bigdata, Computer Security, Drone Software  
 
 <!--[![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)-->
 [![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-f74c4b?style=flat-square&labelColor=a40000&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
