@@ -1,7 +1,7 @@
 ## korkeep (Sungsu Kim)
 ### Profile
 경희대학교 컴퓨터공학과 4학년  
-안드로이드, 정보보호, 빅데이터, 드론  
+안드로이드, 정보보호, 드론  
 
 <!--[![Contact Badge](https://img.shields.io/badge/Contact-010--4768--3439-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)-->
 [![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-f74c4b?style=flat-square&labelColor=a40000&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
