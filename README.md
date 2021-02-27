@@ -1,4 +1,4 @@
-## korkeep (Sungsu Kim)
+## Sungsu (korkeep)
 ### Profile
 경희대학교 컴퓨터공학과 4학년  
 안드로이드, 임베디드, 정보보호, 드론  
