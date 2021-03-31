@@ -13,6 +13,7 @@
 - (19.03 - 20.02) 경희대학교 대학주보 기획뉴스팀
 - (20.01 - 현재) 경희대학교 MESL 연구실 학부연구생
 - (21.02 - 현재) 경희대학교 T.G.WinG 동아리장
+- (21.03 - 현재) 경희고등학교 프로그래밍 교육멘토
 - 대한민국 예비사무관 <img title="South Korea" alt="South Korea" src="https://image.flaticon.com/icons/svg/197/197582.svg" width="15"/>
 
 <!--
