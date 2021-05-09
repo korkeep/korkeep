@@ -3,9 +3,9 @@
 👨‍🎓 경희대학교 컴퓨터공학과 4학년  
 👨‍💻 안드로이드, 임베디드, 정보보호, 드론  
 
-<!--[![Contact Badge](https://img.shields.io/badge/Contact-010--xxxx--xxxx-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)-->
+<!--[![Contact Badge](https://img.shields.io/badge/Contact-010--xxxx--xxxx-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)
 [![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-f74c4b?style=flat-square&labelColor=a40000&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
-[![Work Badge](https://img.shields.io/badge/Work-mesl.khu.ac.kr-7885ff?style=flat-square&labelColor=4555ff)](http://mesl.khu.ac.kr/)
+[![Work Badge](https://img.shields.io/badge/Work-mesl.khu.ac.kr-7885ff?style=flat-square&labelColor=4555ff)](http://mesl.khu.ac.kr/)-->
 
 ### Career
 - (16.03 - 17.02) 경희대학교 대학주보 수습기자
