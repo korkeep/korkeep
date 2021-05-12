@@ -2,7 +2,7 @@
 ### Profile
 경희대학교 컴퓨터공학과 4학년 👨‍🎓  
 안드로이드, 임베디드, 정보보호, 드론 👨‍💻  
-대한민국 예비사무관 <img title="Korea" alt="Government" src="https://user-images.githubusercontent.com/20378368/117591495-bde01e80-b16f-11eb-9b12-0d82d9504abc.png" width="18"/>
+대한민국 예비사무관 <img title="Korea" alt="Government" src="https://user-images.githubusercontent.com/20378368/117591495-bde01e80-b16f-11eb-9b12-0d82d9504abc.png" width="16"/>
 <!--[![Contact Badge](https://img.shields.io/badge/Contact-010--xxxx--xxxx-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)
 [![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-f74c4b?style=flat-square&labelColor=a40000&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
 [![Work Badge](https://img.shields.io/badge/Work-mesl.khu.ac.kr-7885ff?style=flat-square&labelColor=4555ff)](http://mesl.khu.ac.kr/)-->
