@@ -1,4 +1,4 @@
-## KOR keeper <img title="Korea" alt="Government" src="https://user-images.githubusercontent.com/20378368/117591495-bde01e80-b16f-11eb-9b12-0d82d9504abc.png" width="20"/>
+## KOR keeper <img title="korea" alt="" src="https://github.com/korkeep/korkeep/blob/main/korea.png" width="20"/>
 
 ### 🙋‍♂️ Profile
 - 경희대학교 컴퓨터공학과 4학년  
