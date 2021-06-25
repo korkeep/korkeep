@@ -1,4 +1,9 @@
 ## KOR keeper <img title="korea" alt="" src="https://github.com/korkeep/korkeep/blob/main/korea.png" width="20"/>
+> *정의로운 사회를 만들고 싶다.  
+> 세상을 가꾸는 일을 하고 싶다.  
+> 내 능력을 최대로 발휘하고 싶다.*  
+> 
+> 그렇기에 **대한민국 공직자**가 되려고 한다.
 
 ### 🙋‍♂️ Profile
 - 경희대학교 컴퓨터공학과 4학년  
