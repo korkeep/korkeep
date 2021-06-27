@@ -1,5 +1,5 @@
 ## KOR keeper <img title="korea" alt="" src="https://github.com/korkeep/korkeep/blob/main/korea.png" width="20"/>
-<img title="coding" alt="" src="https://github.com/korkeep/korkeep/blob/main/coding.gif" width="300">
+<img title="coding" alt="" src="https://github.com/korkeep/korkeep/blob/main/coding.gif" width="400">
 
 > *정의로운 사회를 만들고 싶다.  
 > 세상을 가꾸는 일을 하고 싶다.  
