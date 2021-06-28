@@ -8,18 +8,16 @@
 ### 🙋‍♂️ Profile
 - 경희대학교 컴퓨터공학과 4학년  
 - 안드로이드, 임베디드, 보안, 드론  
-<!--[![Contact Badge](https://img.shields.io/badge/Contact-010--xxxx--xxxx-f74c4b?style=flat-square&labelColor=a40000)](https://duo.google.com/)
-[![Email Badge](https://img.shields.io/badge/Email-korkeep@naver.com-f74c4b?style=flat-square&labelColor=a40000&link=mailto:korkeep@naver.com)](mailto:korkeep@naver.com)
-[![Work Badge](https://img.shields.io/badge/Work-mesl.khu.ac.kr-7885ff?style=flat-square&labelColor=4555ff)](http://mesl.khu.ac.kr/)-->
 
 ### 🌱 Career
 - (2016.03 - 2017.02) 경희대학교 대학주보 수습기자
 - (2017.03 - 2018.12) 대한민국 해병대 2사단 AMP병
 - (2019.03 - 2020.02) 경희대학교 대학주보 기획뉴스팀
-- (2020.01 - 현재) 경희대학교 MESL 연구실 학부연구생
-- (2021.03 - 현재) 경희고등학교 프로그래밍 교육멘토
+- (2021.03 - 2021.07) 경희고등학교 프로그래밍 멘토
+- (2020.01 - 현재) 경희대학교 MESL 학부연구생
 - (2021.03 - 현재) 경희대학교 T.G.WinG 동아리장
-- (2021.06 - 현재) KITRI BoB 10기 보안컨설팅 트랙
+- (2021.06 - 현재) KITRI BoB 보안컨설팅 교육생
+- (2021.07 - 현재) 경희대학교 SW 아너십 멘토
 
 <!--
 ### 📖 Certificate
